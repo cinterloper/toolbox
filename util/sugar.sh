@@ -34,3 +34,7 @@ logger() {
   fi
 }
 
+#@output=(ip:gateway)
+getDefaultGateway( ) {
+  ip route | grep default  | cut -d ' ' -f 3
+}
