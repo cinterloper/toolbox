@@ -10,3 +10,6 @@
 [submodule "lib/ext/go/gpget"]
 	path = lib/ext/go/gpget
 	url = https://github.com/brianredbeard/gpget.git
+[submodule "lib/diskCryptUtils"]
+	path = lib/diskCryptUtils
+	url = git@github.com:cinterloper/diskCryptUtils.git
