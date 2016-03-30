@@ -4,3 +4,9 @@
 [submodule "lib/go/gpget"]
 	path = lib/go/gpget
 	url = https://github.com/brianredbeard/gpget.git
+[submodule "lib/ext/lua/neturl"]
+	path = lib/ext/lua/neturl
+	url = https://github.com/golgote/neturl.git
+[submodule "lib/ext/go/gpget"]
+	path = lib/ext/go/gpget
+	url = https://github.com/brianredbeard/gpget.git
