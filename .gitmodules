@@ -13,3 +13,6 @@
 [submodule "lib/diskCryptUtils"]
 	path = lib/diskCryptUtils
 	url = git@github.com:cinterloper/diskCryptUtils.git
+[submodule "lib/--force"]
+	path = lib/--force
+	url = https://github.com/cinterloper/diskCryptUtils.git
