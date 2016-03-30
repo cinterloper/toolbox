@@ -1,0 +1,3 @@
+[submodule "lib/neturl"]
+	path = lib/lua/neturl
+	url = https://github.com/golgote/neturl.git
