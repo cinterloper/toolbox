@@ -1,3 +1,6 @@
 [submodule "lib/neturl"]
 	path = lib/lua/neturl
 	url = https://github.com/golgote/neturl.git
+[submodule "lib/go/gpget"]
+	path = lib/go/gpget
+	url = https://github.com/brianredbeard/gpget.git

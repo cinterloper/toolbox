@@ -1,4 +1,4 @@
-url = require "net.url"
+url = require "lib/ext/lua/neturl/lib/net/url"
 parsed = url.parse(arg[1])
 
 function ifthere(input, func)
