@@ -20,7 +20,7 @@ for k,v in pairs(parts) do
     if (type(decoded_val) == "table") then
       printTable(v,decoded_val)
     else
-      print(parts[k]..'='..decoded_val)
+      print('DECODE_'..parts[k]..'='..decoded_val)
     end
   end
 
