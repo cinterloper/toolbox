@@ -16,3 +16,6 @@
 [submodule "lib/--force"]
 	path = lib/--force
 	url = https://github.com/cinterloper/diskCryptUtils.git
+[submodule "lib/ext/bash/bork"]
+	path = lib/ext/bash/bork
+	url = https://github.com/mattly/bork.git
